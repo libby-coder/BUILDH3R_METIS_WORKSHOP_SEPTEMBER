@@ -1,5 +1,10 @@
 # 🏗 Scaffold-ETH 2
 
+## For Buildh3r Workshop: The Deployed contract detials is below
+```
+Address:  0xEB0142b993766e7f6fe52562B54F8F91E56769A7
+```
+
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>

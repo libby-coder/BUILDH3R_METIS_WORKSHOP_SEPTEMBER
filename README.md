@@ -1,5 +1,14 @@
 # 🏗 Scaffold-ETH 2
 
+## For Buildh3r Workshop: The Deployed contract detials is below
+![Updated Libby metis Terminal Image](https://github.com/user-attachments/assets/531cef03-9454-4598-8a77-f8af461abe4e)
+
+
+```
+Address:  0x4AF8065C3e39005560A39D37C700eCF4fe4aF166
+Transaction Hash:  0xcfa886fef06a6b06fb541ade16b32c27e3832a02ee7095e4fe4702d6d9cbc630
+```
+
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
   <a href="https://scaffoldeth.io">Website</a>

@@ -1,10 +1,11 @@
 # 🏗 Scaffold-ETH 2
 
 ## For Buildh3r Workshop: The Deployed contract detials is below
+![updated libby metis deployment TERminal image](https://github.com/user-attachments/assets/436f576e-45ed-4aed-a10d-9bbd85cc6c85)
+
 ```
 Address:  0xEB0142b993766e7f6fe52562B54F8F91E56769A7
 
-![updated libby metis deployment TERminal image](https://github.com/user-attachments/assets/8bf368bb-dde5-425e-8074-193763aeb5a0)
 
 ```
 

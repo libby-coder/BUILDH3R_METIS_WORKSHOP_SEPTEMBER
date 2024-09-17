@@ -3,6 +3,9 @@
 ## For Buildh3r Workshop: The Deployed contract detials is below
 ```
 Address:  0xEB0142b993766e7f6fe52562B54F8F91E56769A7
+
+![updated libby metis deployment TERminal image](https://github.com/user-attachments/assets/8bf368bb-dde5-425e-8074-193763aeb5a0)
+
 ```
 
 <h4 align="center">
